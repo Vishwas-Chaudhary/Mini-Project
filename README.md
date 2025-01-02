@@ -1,13 +1,15 @@
-  # Basic Projects
+# Checkers Game (Player vs AI)
+
+![Welcome GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh3dnlybnhkbnZ4dGtqYW95aWxlMzgyb2lpOWdzc3YxZmw2enJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIpZtWCbVWdbZte/giphy.webp)
 
 ## Overview
-This repository contains a collection of basic projects covering different areas, such as games and utility scripts, primarily developed using C++,Python and some python libaries.
+A simple checkers game where the player plays against an AI opponent. The AI uses the Minimax algorithm to determine the best possible moves.
 
-## Projects Included
-- **Checkers Game (Player vs AI)**: A simple checkers game featuring a Player vs AI mode with a Minimax algorithm.
-- **Basic Bank Transaction System** : It is made of python and it's libraies.
-- **Basic Airlines Reservation Project**: Based on transaction and booking of flights international and domestic both and etc that happen in a basic airline backend in tech but this project runs in terminal.
+## Features
+- Player vs AI gameplay
+- AI powered by the Minimax algorithm with a single difficulty level
+
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Vishwas-Chaudhary/Mini-Project
+   git clone https://github.com/Vishwas-Chaudhary/Mini-Project.git
